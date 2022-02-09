@@ -1,3 +1,6 @@
+"""
+This module can be used to display 10 nearest film's locations
+"""
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 import folium
